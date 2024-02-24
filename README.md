@@ -1,4 +1,4 @@
-# ResuVox: Resume ATS Analyzer
+# ResuVox: Resume ATS Analyser
 
 ## Description
 ResuVox is a Flask-based web application designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). ATS are software systems used by employers to manage the recruitment process by scanning and filtering resumes based on specific criteria. ResuVox analyzes resumes and job descriptions to provide insights into keyword matching, readability scores, and other relevant metrics to increase the chances of passing through ATS filters.
