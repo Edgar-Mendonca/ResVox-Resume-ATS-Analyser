@@ -26,7 +26,7 @@ To run ResuVox locally, you'll need to have the following installed:
 You can install the Python dependencies using pip:
 ```bash
 pip install Flask nltk scikit-learn textstat
-
+```
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
