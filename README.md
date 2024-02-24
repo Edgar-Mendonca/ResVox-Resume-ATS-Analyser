@@ -13,7 +13,7 @@ ResuVox is a Flask-based web application designed to help job seekers optimize t
 ResuVox aims to simplify the process of optimizing resumes for ATS by providing a comprehensive analysis of keyword matching, skills alignment, and readability metrics. Whether you're a seasoned professional or a recent graduate, ResuVox can help you create resumes that stand out in the competitive job market and increase your chances of landing interviews.
 
 ## Usage
-To use ResuVox, simply navigate to the application URL, paste your resume and job description, and click the "Analyze" button. Review the analysis results to gain insights into keyword matching, skills alignment, and readability scores, and make necessary adjustments to optimize your resume for ATS.
+To use ResuVox, simply navigate to the application URL, paste your resume and job description, and click the "Analyse" button. Review the analysis results to gain insights into keyword matching, skills alignment, and readability scores, and make necessary adjustments to optimize your resume for ATS.
 
 ## Requirements
 To run ResuVox locally, you'll need to have the following installed:
