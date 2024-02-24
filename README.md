@@ -23,7 +23,22 @@ To run ResuVox locally, you'll need to have the following installed:
 - scikit-learn
 - textstat
 
-You can install the Python dependencies using pip:
+To run this locally, you'll need to have Python installed on your machine. It's recommended to set up a virtual environment to isolate the project dependencies. Here's how you can do it:
+```bash
+python -m venv venv
+```
+Activate the Virtual Environment: Depending on your operating system, activate the virtual environment using one of the following commands:
+- On Windows:
+```bash
+venv\Scripts\activate
+```
+
+- On macOS and Linux:
+ ```bash
+source venv/bin/activate
+```
+
+Install the Python dependencies using pip:
 ```bash
 pip install Flask nltk scikit-learn textstat
 ```
