@@ -45,7 +45,7 @@ pip install Flask nltk scikit-learn textstat
 
 ## Built Using
 
-ProfileCraft is built using the following technologies:
+ResuVox ATS is built using the following technologies:
 
 <div align="center">
     <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
@@ -60,7 +60,7 @@ ProfileCraft is built using the following technologies:
 
 ## Support
 
-If you find ProfileCraft helpful and would like to support its development, you can contribute by buying me a coffee or donating via PayPal:
+If you find ResuVox ATS helpful and would like to support its development, you can contribute by buying me a coffee or donating via PayPal:
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/edgarmendonca" target="_blank"><img width="171" height="48" src="https://raw.githubusercontent.com/Edgar-Mendonca/ProfileCraft/21fc45fc8cce9bc2e10a07acd8185b904bce84dd/static/icons/bmc-button.svg" alt=""/></a>&nbsp;&nbsp;&nbsp;<a href="#" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/paypal--v1.png" alt=""/></a>
