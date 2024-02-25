@@ -1,4 +1,4 @@
-# ResuVox: Resume ATS Analyser
+# <img align="center" src="https://raw.githubusercontent.com/Edgar-Mendonca/ResVox-Resume-ATS-Analyser/main/static/images/logo.jpeg" height="50" width="50" /></a> ResuVox: Resume ATS Analyser
 
 ## Description
 ResuVox is a Flask-based web application designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). ATS are software systems used by employers to manage the recruitment process by scanning and filtering resumes based on specific criteria. ResuVox analyses resumes and job descriptions to provide insights into keyword matching, readability scores, and other relevant metrics to increase the chances of passing through ATS filters.
@@ -42,6 +42,29 @@ Install the Python dependencies using pip:
 ```bash
 pip install Flask nltk scikit-learn textstat
 ```
+
+## Built Using
+
+ProfileCraft is built using the following technologies:
+
+<div align="center">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+    <img width="50" height="50" src="https://img.icons8.com/ios/50/flask.png" alt="flask"/>
+    <img width="50" height="50" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt=""/>
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="48" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="48" height="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT Logo" title="ChatGPT Logo" width="48" height="48"/>
+</div>
+
+## Support
+
+If you find ProfileCraft helpful and would like to support its development, you can contribute by buying me a coffee or donating via PayPal:
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/edgarmendonca" target="_blank"><img width="171" height="48" src="https://raw.githubusercontent.com/Edgar-Mendonca/ProfileCraft/21fc45fc8cce9bc2e10a07acd8185b904bce84dd/static/icons/bmc-button.svg" alt=""/></a>&nbsp;&nbsp;&nbsp;<a href="#" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/000000/paypal--v1.png" alt=""/></a>
+</div>
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
