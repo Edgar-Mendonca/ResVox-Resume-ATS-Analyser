@@ -50,7 +50,7 @@ ProfileCraft is built using the following technologies:
 <div align="center">
     <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
     <img width="50" height="50" src="https://img.icons8.com/ios/50/flask.png" alt="flask"/>
-    <img width="50" height="50" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt=""/>
+    <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="48" height="48"/>
